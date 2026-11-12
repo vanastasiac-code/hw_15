@@ -1,7 +1,7 @@
 const name = 'Anastasiia';
 
 let age;
-age = '22';
+age = 22;
 
 console.log(name);
 console.log(age);
